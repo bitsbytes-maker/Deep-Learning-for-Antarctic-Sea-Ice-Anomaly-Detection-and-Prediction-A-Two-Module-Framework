@@ -30,5 +30,5 @@ All results and analyses from the model, along with plot generation, are present
 
 ## Usage
 
-To utilize the scripts, clone the repository and run the appropriate Python files corresponding to your chosen training and testing periods. Ensure you have the necessary libraries installed, and refer to the README for specific instructions on setup and execution.
+To utilize the scripts, clone the repository and run the appropriate Python files corresponding to your chosen training and testing periods. Ensure you have the necessary libraries installed which is mentioned in.py file.
 
