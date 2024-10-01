@@ -6,7 +6,7 @@ This repository contains several Python scripts for analyzing sea ice anomalies,
 
 Sea ice extent images can be downloaded from the following link: [NOAA Sea Ice Extent Images](https://noaadata.apps.nsidc.org/NOAA/G02135/south/daily/images/).
 
-# Annual Minimum Antarctic Sea Ice Extent Data
+# Download Annual Minimum Antarctic Sea Ice Extent Data
 
 Annual Minimum Antarctic Sea Ice Extent data can be found at the following link: [Understanding Climate: Antarctic Sea Ice Extent](https://www.climate.gov/news-features/understanding-climate/understanding-climate-antarctic-sea-ice-extent).
 
