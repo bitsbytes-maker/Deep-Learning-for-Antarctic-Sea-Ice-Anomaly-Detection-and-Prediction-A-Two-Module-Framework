@@ -2,6 +2,10 @@
 
 This repository contains several Python scripts for analyzing sea ice anomalies, with specific training, testing, and validation periods.
 
+# Download Sea Ice Extent Images
+
+Sea ice extent images can be downloaded from the following link: [NOAA Sea Ice Extent Images](https://noaadata.apps.nsidc.org/NOAA/G02135/south/daily/images/).
+
 ## Training, Testing, and Validation Periods
 
 | **Training Period**         | **Testing Period** | **Validation Period** | **Description**                                                                                         | **Python File**              |
